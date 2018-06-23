@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install tharyel_view_tool
 
 ## Usage
-
-Soon to be updated
+```ruby
+TharyelViewTool::Renderer.copyright("argument_1", "argument_2")
+```
 
 ## Development
 

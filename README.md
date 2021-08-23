@@ -31,7 +31,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tharyel_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/tharyel/tharyel_view_tool.
 
 ## License
 
